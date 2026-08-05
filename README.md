@@ -4,7 +4,7 @@
 ---
 
 > [!IMPORTANT]
-> **This is a heavily modified fork of the original [References Overlays](https://extensions.blender.org/add-ons/references-overlays/) extension by KEN.**
+> **This is a heavily modified fork of the original [References Overlays](https://extensions.blender.org/add-ons/references-overlays/) extension by KENKEN.**
 > 
 > This branch contains a comprehensive architectural overhaul, including per-viewport persistence, maximize/unmaximize syncing, and a completely redesigned native modal keymap. 
 > 
